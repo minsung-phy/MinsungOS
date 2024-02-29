@@ -21,7 +21,7 @@ Simple CLI-based OS development project
   ```
   export PATH="/usr/local/Cellar/x86_64-elf-binutils/<version>/bin/:/usr/local/Cellar/x86_64-elf-gcc/<version>/bin/:$PATH"
   ```
-## Key features and functions
+## Key features
 - Bootloader
 - VGA Drivers
 - Keyboard Drivers
